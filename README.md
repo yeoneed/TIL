@@ -1,2 +1,2 @@
 # TIL
-공부내용 정리
+Today I learned
