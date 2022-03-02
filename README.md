@@ -1,2 +1,5 @@
 # TIL
-Today I learned
+: Today I learned
+
+## ⌨️ Algorithm
+- 그리디 알고리즘
